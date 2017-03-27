@@ -4,5 +4,9 @@
 node_modules/
 bower_components/
 .rp
+<<<<<<< HEAD
 
 *.pptx
+=======
+.pptx
+>>>>>>> origin/master
